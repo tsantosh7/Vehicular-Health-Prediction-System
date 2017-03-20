@@ -1,0 +1,10 @@
+div.box
+		{
+		width:400px;
+		height:49px;
+		padding:10px;
+		border:1px solid gray;
+		margin:0px;
+		background-color:#2aa4cf;
+		border-radius: 5px 5px 5px 5px;
+		}
